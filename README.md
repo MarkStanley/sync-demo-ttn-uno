@@ -27,4 +27,4 @@ as an Uplink decoder function in the TTN v3 console for your application:
   };
 }
 
-TEST
+
